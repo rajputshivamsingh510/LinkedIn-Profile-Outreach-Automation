@@ -115,8 +115,3 @@ This project is for educational/demonstration purposes only. Automated actions o
 - Excel and web automation integrated professionally
 - Ideal for showcasing Python automation skills in interviews
 
----
-
-## 👨‍💻 Author
-
-Developed by [Your Name] for Scoreazy Internship Assignment
